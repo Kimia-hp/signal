@@ -1,9 +1,9 @@
-# synthrsizer-signalProject
+
 **Synthesizer**
-members of the team
-Kimia Hejazy Poor 401101592
-Fateme Torkashvand 401101438
-Aysa Takyar 4011014
+-members of the team
+-Kimia Hejazy Poor 401101592
+-Fateme Torkashvand 401101438
+-Aysa Takyar 4011014
 1. **MIDI Format**
 
 2. **Synthesis**
